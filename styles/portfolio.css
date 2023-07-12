@@ -47,4 +47,17 @@ nav{
     display: flex;
     justify-content:space-between;
     align-items: center;
+    margin: 200;
+}
+/*header related styles*/
+.header{
+ border-color: #fcd6bc;;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-pic{
+    width: 500px;
 }
